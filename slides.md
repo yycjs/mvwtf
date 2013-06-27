@@ -113,6 +113,18 @@ frameworks of today.
 
 ## Backbone
 
+<img src="images/backbone_logo.png" alt="Backbone" style="float: right; margin: 3em; width: 200px; height: 200px;" />
+
+* Very un-opinionated framework
+* MVC-ish but more MVWhateverthehellyouwant
+* Great community and lots of plugins
+
+# Pitfalls
+* Lots of files. Views, models, templates for everything
+* Can really hang yourself if your not careful
+* Prone to memory leaks
+* Always need to call render
+
 ---
 
 ## CanJS
@@ -120,6 +132,18 @@ frameworks of today.
 ---
 
 ## Component
+<img src="images/component_logo.jpeg" alt="Component" style="float: right; margin: 3em; width: 400px; height: 200px;" />
+
+* A collection of components and a build system
+* You pick and choose what you want
+* Components are self contained with minimal styling
+* Lots of components already
+
+    ```
+    component install
+    ```
+
+* Uses `component.json` which leverages github
 
 ---
 
