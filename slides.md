@@ -125,10 +125,6 @@ Client side MVC framework for building rich web applications. Supports *jQuery*,
 
 ---
 
-## CanJS
-
----
-
 ## Component
 <img src="images/component_logo.jpeg" alt="Component" style="float: right; margin: 3em; width: 400px; height: 200px;" />
 
