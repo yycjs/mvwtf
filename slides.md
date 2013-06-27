@@ -109,7 +109,7 @@ Client side MVC framework for building rich web applications. Supports *jQuery*,
 
 ---
 
-## Backbone
+## [Backbone](http://backbonejs.org/)
 
 <img src="images/backbone_logo.png" alt="Backbone" style="float: right; margin: 3em; width: 200px; height: 200px;" />
 
@@ -125,7 +125,7 @@ Client side MVC framework for building rich web applications. Supports *jQuery*,
 
 ---
 
-## Component
+## [Component](http://component.io/)
 <img src="images/component_logo.jpeg" alt="Component" style="float: right; margin: 3em; width: 400px; height: 200px;" />
 
 * A collection of components and a build system
