@@ -79,21 +79,6 @@ Separates the representation of information from the user's interaction with it
 
 ---
 
-## [CanJS](http://canjs.us)
-
-Client side MVC framework for building rich web applications. Supports *jQuery*, *Zepto*, *Mootools*,
-*Dojo*, *YUI*.
-
-* __can.Construct__ - inheritable constructor functions
-* __can.Observe__ - observable objects
-* __can.Model__ - observes connected to a RESTful JSON interface
-* __can.view__ - template loading, caching, rendering
-* __can.EJS__ - live binding templates
-* __can.Control__ - declarative event bindings
-* __can.route__ - back button and bookmarking support
-
----
-
 ## [TodoMVC](http://todomvc.com/)
 
 The same Todo application implemented using MV\* concepts in most of the popular JavaScript MV\*
@@ -108,6 +93,19 @@ frameworks of today.
 * KnockoutJS
 * DOJO
 * ...
+---
+
+## [CanJS](http://canjs.com)
+
+Client side MVC framework for building rich web applications. Supports *jQuery*, *Zepto*, *Mootools*,
+*Dojo*, *YUI*.
+
+* Evolved from [JavaScriptMVC](http://javascriptmvc.com) (since 2007)
+* Focus on performance and ease of use
+* __Construct__, __Observe__, __Model__, __view__, __EJS__, __Control__, __route__
+
+
+![CanJS logo](images/canjs.png)
 
 ---
 
