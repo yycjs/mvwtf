@@ -59,13 +59,7 @@ __Framework__:
 
 ---
 
-## Single page applications
-
-![Overview](images/tsa_overview.png)
-
----
-
-## MVC, MVVM, MVP, MVW, MOVE? WTF?
+## MVC, MVVM, MVP, MOVE? WTF?
 
 * Quite a few different patterns being used in client side JS.
 * Most are based off of MVC in some fashion.
@@ -85,7 +79,18 @@ Separates the representation of information from the user's interaction with it
 
 ---
 
-## MVWTF?
+## [CanJS](http://canjs.us)
+
+Client side MVC framework for building rich web applications. Supports *jQuery*, *Zepto*, *Mootools*,
+*Dojo*, *YUI*.
+
+* __can.Construct__ - inheritable constructor functions
+* __can.Observe__ - observable objects
+* __can.Model__ - observes connected to a RESTful JSON interface
+* __can.view__ - template loading, caching, rendering
+* __can.EJS__ - live binding templates
+* __can.Control__ - declarative event bindings
+* __can.route__ - back button and bookmarking support
 
 ---
 
@@ -96,6 +101,7 @@ frameworks of today.
 <img src="images/todomvc.png" alt="TodoMVC" style="float: right; margin: 3em;" />
 
 * Backbone
+* CanJS
 * Ember
 * AngularJS
 * Spine
