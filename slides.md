@@ -93,6 +93,11 @@ frameworks of today.
 * KnockoutJS
 * DOJO
 * ...
+
+---
+
+## Backbone
+
 ---
 
 ## [CanJS](http://canjs.com)
@@ -103,17 +108,10 @@ Client side MVC framework for building rich web applications. Supports *jQuery*,
 * Evolved from [JavaScriptMVC](http://javascriptmvc.com) (since 2007)
 * Focus on performance and ease of use
 * __Construct__, __Observe__, __Model__, __view__, __EJS__, __Control__, __route__
+* Live binding
 
 
 ![CanJS logo](images/canjs.png)
-
----
-
-## Backbone
-
----
-
-## CanJS
 
 ---
 
