@@ -38,10 +38,10 @@
 
 ### Node Authentication and Structuring
 
-* Authentication with Facebook using Passport
-* Basic email password authentication using Passport
+* NodeJS authentication using Passport
 * How to better restructure your Express app
 * Basic validation/middleware
+* A realtime blog in 7 lines with Olives
 
 ---
 
@@ -109,8 +109,22 @@ Client side MVC framework for building rich web applications. Supports *jQuery*,
 
 ---
 
+## Backbone
+
+---
+
+## CanJS
+
+---
+
+## Component
+
+---
 
 ## Next Month
 
-* Something awesome
-* More awesomeness
+* Testing!!
+* Buzzwords
+* Frameworks
+* Writing some tests
+* CI Integration
